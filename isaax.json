@@ -1,0 +1,11 @@
+{
+  "name": "isaax-test",
+  "version": "",
+  "description": "python - raspberry-pi",
+  "main": "app.py",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "python app.py"
+  }
+}
