@@ -1,3 +1,3 @@
-# isaax_test
+# isaax-test
 
 lol :P
